@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fran-scala
 - 👀 I’m interested in quantum computing, quantum and classical machine learning
 - 🌱 I’m currently learning the main Python libraries to do quantum computing
-- 💞️ I’m looking to collaborate on projects and hackatons
+- 💞️ I’m looking to collaborate on projects and hackathons
 - 📫 How to reach me: francesco.scala01@universitadipavia.it
 
 <!---
