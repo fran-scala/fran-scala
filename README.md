@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fran-scala
 - 👀 I’m interested in quantum computing, quantum and classical machine learning
-- 🌱 I’m currently learning the main Python libraries to do quantum computing
+- 🌱 I’m programming with the main Python quantum computing libraries (Pennylane, Qiskit)
 - 💞️ I’m looking to collaborate on projects and hackathons
 - 📫 How to reach me: francesco.scala01@universitadipavia.it
 
